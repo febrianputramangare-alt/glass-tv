@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Beranda</string>
+    <string name="inputs">Sumber Masukan</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="settings">Pengaturan</string>
+    <string name="choose_input">Sumber Masukan</string>
+    <string name="connected">Terhubung</string>
+    <string name="standby">Siaga</string>
+    <string name="not_connected">Tidak ada perangkat</string>
+    <string name="live_tv">TV Langsung</string>
+    <string name="no_inputs">Tidak ditemukan sumber masukan</string>
+    <string name="ethernet">Ethernet</string>
+    <string name="offline">Luring</string>
+    <string name="not_available">Tidak tersedia di TV ini</string>
+    <string name="cant_open">Tidak dapat membuka %1$s</string>
+    <string name="date_format">d MMM yyyy</string>
+    <string name="dream_name">Jam</string>
+    <string name="vpn">VPN</string>
+    <string name="vpn_off">VPN mati</string>
+    <string name="home_settings">Beranda bawaan</string>
+    <string name="home_settings_help">Pilih layar beranda di pengaturan sistem, lalu tekan tombol Home.</string>
+    <string name="input_key_service_description">Membuka pemilih sumber masukan saat tombol Input pada remote ditekan.</string>
+    <string name="home_key_name">Tombol Home</string>
+    <string name="home_key_description">Membuat tombol Home pada remote membuka peluncur ini.</string>
+    <string name="card_prompt_title">Kartu baru dari %1$s</string>
+    <string name="card_prompt_body">%1$s dapat menampilkan kartu di layar beranda kamu. Jika disembunyikan, ubin aplikasi akan tetap seperti biasa.</string>
+    <string name="card_prompt_names">Nama kartu: \'%1$s\'. Aplikasi: \'%2$s\'.</string>
+    <string name="card_prompt_resigned">%1$s telah diperbarui dengan kunci tanda tangan yang berbeda, sehingga pilihan sebelumnya tidak berlaku lagi. Tentukan kembali untuk kartu ini.</string>
+    <string name="card_prompt_relabelled">%1$s telah mengubah nama kartunya sejak kamu menentukan pilihan. Tentukan kembali untuk kartu ini.</string>
+    <string name="card_prompt_hint">Kamu bisa mengubahnya nanti: tahan tombol OK di Pengaturan.</string>
+    <string name="card_prompt_identity">%1$s, kunci %2$s</string>
+    <string name="card_keep_hidden">Tetap sembunyikan</string>
+    <string name="card_show">Tampilkan kartu</string>
+    <string name="card_not_saved">Tidak dapat menyimpan pilihan</string>
+    <string name="module_cards">Kartu modul</string>
+    <string name="no_module_cards">Tidak ada kartu modul yang terpasang</string>
+    <string name="card_app_name">Aplikasi: %1$s</string>
+    <string name="card_state_shown">Ditampilkan</string>
+    <string name="card_state_over_limit">Ditampilkan, melebihi batas 8 kartu</string>
+    <string name="card_state_hidden">Disembunyikan</string>
+    <string name="card_state_new">Baru</string>
+    <string name="card_state_new_key">Kunci baru</string>
+    <string name="card_state_new_label">Nama baru</string>
+    <string name="tile_move">Pindahkan</string>
+    <string name="tile_app_info">Info aplikasi</string>
+</resources>
